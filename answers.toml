@@ -1,0 +1,28 @@
+# FOSS Treasure Hunt Answers
+# This file contains only the answers to secure them separately from the main code
+
+[questions]
+
+# Level 1
+level_1_answer = "Gate"
+level_1_security_key = "Sir Timothy John Berners-Lee"
+
+# Level 2
+level_2_answer = "Reception"
+level_2_security_key = "FORTRAN"
+
+# Level 3
+level_3_answer = "Lift"
+level_3_security_key = "IDE"
+
+# Level 4
+level_4_answer = "Washing Area"
+level_4_security_key = "Impersonation and Cheating"
+
+# Level 5
+level_5_answer = "Power House"
+level_5_security_key = "Linus Torvalds"
+
+# Level 6
+level_6_answer = "Canteen"
+level_6_security_key = "console.log()"
