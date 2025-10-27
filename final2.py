@@ -955,8 +955,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_1_answer"],
         "security_riddle": "I bent but don’t fall",
         "security_key": answers["level_1_security_key"],
-        "hint": "💡 Think of an entrance.",
-        "security_hint": "💡 Inventor of the World Wide Web.",
+        "hint": "",
+        "security_hint": "",
         "category": "Riddles",
         "difficulty": "easy",
         "points": 10
@@ -966,8 +966,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_2_answer"],
         "security_riddle": "Everyone passes me and I welcome strangers without knowing their name",
         "security_key": answers["level_2_security_key"],
-        "hint": "💡 Where visitors first go.",
-        "security_hint": "💡 First high-level programming language.",
+        "hint": "",
+        "security_hint": "",
         "category": "Riddles",
         "difficulty": "medium",
         "points": 15
@@ -977,8 +977,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_3_answer"],
         "security_riddle": "My heart is full of life",
         "security_key": answers["level_3_security_key"],
-        "hint": "💡 Think of something that moves up and down.",
-        "security_hint": "💡 Integrated Development Environment.",
+        "hint": "",
+        "security_hint": "",
         "category": "Riddles",
         "difficulty": "medium",
         "points": 20
@@ -988,8 +988,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_4_answer"],
         "security_riddle": "I’m odoru with taiyō",
         "security_key": answers["level_4_security_key"],
-        "hint": "💡 Where you freshen up.",
-        "security_hint": "💡 Related to deception and cheating.",
+        "hint": "",
+        "security_hint": "",
         "category": "Riddles",
         "difficulty": "hard",
         "points": 25
@@ -999,8 +999,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_5_answer"],
         "security_riddle": "The action never lies",
         "security_key": answers["level_5_security_key"],
-        "hint": "💡 Where power is generated.",
-        "security_hint": "💡 Creator of Linux.",
+        "hint": "",
+        "security_hint": "",
         "category": "Riddles",
         "difficulty": "hard",
         "points": 30
@@ -1010,8 +1010,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_6_answer"],
         "security_riddle": "Between one spin and one swing",
         "security_key": answers["level_6_security_key"],
-        "hint": "💡 Think of places in a school or office.",
-        "security_hint": "💡 Related to JavaScript debugging.",
+        "hint": "",
+        "security_hint": "",
         "category": "Riddles",
         "difficulty": "expert",
         "points": 35
@@ -3582,3 +3582,4 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
