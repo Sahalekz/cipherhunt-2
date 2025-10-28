@@ -25,8 +25,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_1_answer"],
         "security_riddle": "I bent but don’t fall",
         "security_key": answers["level_1_security_key"],
-        "hint": "",
-        "security_hint": "",
+        "hint": "No hints are available.",
+        "security_hint": "No hints are available.",
         "category": "Riddles",
         "difficulty": "easy",
         "points": 10
@@ -36,8 +36,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_2_answer"],
         "security_riddle": "Everyone passes me and I welcome strangers without knowing their name",
         "security_key": answers["level_2_security_key"],
-        "hint": "",
-        "security_hint": "",
+        "hint": "No hints are available",
+        "security_hint": "No hints are available.",
         "category": "Riddles",
         "difficulty": "medium",
         "points": 15
@@ -47,8 +47,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_3_answer"],
         "security_riddle": "My heart is full of life",
         "security_key": answers["level_3_security_key"],
-        "hint": "",
-        "security_hint": "",
+        "hint": "No hints are available.",
+        "security_hint": "No hints are available.",
         "category": "Riddles",
         "difficulty": "medium",
         "points": 20
@@ -58,8 +58,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_4_answer"],
         "security_riddle": "I’m odoru with taiyō",
         "security_key": answers["level_4_security_key"],
-        "hint": "",
-        "security_hint": "",
+        "hint": "💡First word with 'w' and it has 7 letters.",
+        "security_hint": "No hints are available.",
         "category": "Riddles",
         "difficulty": "hard",
         "points": 25
@@ -69,8 +69,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_5_answer"],
         "security_riddle": "The action never lies",
         "security_key": answers["level_5_security_key"],
-        "hint": "",
-        "security_hint": "",
+        "hint": "💡 First word starts with 'p'",
+        "security_hint": "No hints are available",
         "category": "Riddles",
         "difficulty": "hard",
         "points": 30
@@ -80,8 +80,8 @@ QUESTIONS: List[Dict] = [
         "answer": answers["level_6_answer"],
         "security_riddle": "Between one spin and one swing",
         "security_key": answers["level_6_security_key"],
-        "hint": "",
-        "security_hint": "",
+        "hint": "No hints are available.",
+        "security_hint": "No hints are available.",
         "category": "Riddles",
         "difficulty": "expert",
         "points": 35
@@ -3582,4 +3582,5 @@ st.markdown("""
 </div>
 
 """, unsafe_allow_html=True)
+
 
